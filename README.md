@@ -7,9 +7,9 @@ If I can help you, talk with me!
 **E-mail/hangout**: vcanato@gmail.com
 [Linkedin](https://www.linkedin.com/feed/)
 
-[Portifólio Code](https://github.com/canato/showcase)
-[Open Source](https://github.com/canhub)
-[Mentoring](http://github.com/canato/purity-test)
+- [Portifólio Code](https://github.com/canato/showcase)
+- [Open Source](https://github.com/canhub)
+- [Mentoring](http://github.com/canato/purity-test)
 
 Besides being a developer I love to listening music, play as DJ, produce music, make partys, dance, workout, play American football, have deep conversations, play RPG, read books, see series and study.
 
