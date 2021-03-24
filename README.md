@@ -14,3 +14,5 @@ If I can help you, talk with me!
 Besides being a developer I love to listening music, play as DJ, produce music, make partys, dance, workout, play American football, have deep conversations, play RPG, read books, see series and study.
 
 Had a Party company for 6-7 years while doing my graduation, with big events (8k people, 3 stages, etc), but now I decided to focus on code and learning UI/UX. As I already had worked on marketing in Facebook and Google Ads and with user I'm looking forward for focus in how user should be happy using softwares. While can do a good middle camp between areas.
+
+<img alt="Canato Github Stats" src="https://github-readme-stats.vercel.app/api?username=Canato&show_icons=true&hide_border=false&count_private=true&theme=radical&hide_rank=true" />
