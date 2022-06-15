@@ -22,5 +22,5 @@ Had a Party company for 6-7 years while doing my graduation, with big events (8k
 
 <a href="https://medium.com/@canato" target="_blank"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Canato" alt="Layout with last medium posts"/></a>
 
-<img href="https://github.com/canato/canato/blob/output/snake.svg" /> 
+![](https://github.com/Canato/Canato/blob/animation/github-contribution-grid-snake.svg)
 <img align="left" src="https://profile-counter.glitch.me/canato/count.svg?"  />
